@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7310c2b93e44a495792427fc5d48bd61, type: 3}
+  m_Name: 3. Grape
+  m_EditorClassIdentifier: 
+  id: 3
+  mat: {fileID: 2100000, guid: f202004738eb44de2856efe16a51fab4, type: 2}
+  icon: {fileID: 21300000, guid: 7262f540fbc0a4e638a09bba6a35df03, type: 3}
+  particleMat: {fileID: 2100000, guid: d74299ee142c64e34b3cff776e6b2c1c, type: 2}
+  cost: 6
+  unlockPoint: 2
+  nextCandy: {fileID: 11400000, guid: 23bce3719678d4ea39e0a9da295cc0a9, type: 2}

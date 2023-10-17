@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7310c2b93e44a495792427fc5d48bd61, type: 3}
+  m_Name: 2. Orange
+  m_EditorClassIdentifier: 
+  id: 2
+  mat: {fileID: 2100000, guid: 695799a76ce6b4254a0d48ea7581d254, type: 2}
+  icon: {fileID: 21300000, guid: 624ac7d388c6248518390a5a370dccfc, type: 3}
+  particleMat: {fileID: 2100000, guid: b9ee92d085647433bb9c77819d4c46ce, type: 2}
+  cost: 4
+  unlockPoint: 1.5
+  nextCandy: {fileID: 11400000, guid: fae0d1f124b7a4cf8bcbeebb3713d9fb, type: 2}
